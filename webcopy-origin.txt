@@ -1,0 +1,1260 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400%2C400i%2C500%2C700&subset=latin%2Clatin-ext
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzc.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOkCnqEu92Fr1Mu51xGIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://plomberiejouhra.ma/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/category/panneaux-solaires/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\category\panneaux-solaires\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/category/panneaux-solaires/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\category\panneaux-solaires\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/category/plomberie/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\category\plomberie\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/category/plomberie/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\category\plomberie\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/l/email-protection
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/chasse-deau-qui-fuit/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\chasse-deau-qui-fuit\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/chasse-deau-qui-fuit/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\chasse-deau-qui-fuit\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/choisir-un-plombier/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\choisir-un-plombier\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/choisir-un-plombier/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\choisir-un-plombier\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/comment-deboucher-vos-toilettes/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\comment-deboucher-vos-toilettes\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/comment-deboucher-vos-toilettes/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\comment-deboucher-vos-toilettes\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/comments/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/contact/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\contact\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/guide-pratique-de-la-plomberie/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\guide-pratique-de-la-plomberie\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/la-rentabilite-des-panneaux-solaires/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\la-rentabilite-des-panneaux-solaires\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/la-rentabilite-des-panneaux-solaires/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\la-rentabilite-des-panneaux-solaires\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/la-societe/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\la-societe\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/lib/css/dist/block-library/style.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\lib\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/lib/js/comment-reply.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\lib\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/lib/js/jquery/jquery-migrate.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\lib\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/lib/js/jquery/jquery.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\lib\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/lib/js/jquery/ui/core.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\lib\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/lib/js/underscore.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\lib\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/lib/js/wp-util.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\lib\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/067a15d05a/assets/css/wpforms-full.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\067a15d05a\assets\css\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/067a15d05a/assets/images/times-solid-white.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\067a15d05a\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://plomberiejouhra.ma/modules/067a15d05a/assets/js/integrations/elementor/frontend.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\067a15d05a\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/067a15d05a/assets/js/wpforms.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\067a15d05a\assets\js\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/067a15d05a/assets/lib/jquery.validate.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\067a15d05a\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/067a15d05a/assets/lib/mailcheck.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\067a15d05a\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/067a15d05a/assets/lib/punycode.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\067a15d05a\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/829e69362a/assets/css/maxslider.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\829e69362a\assets\css\maxslider.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/829e69362a/assets/js/maxslider.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\829e69362a\assets\js\maxslider.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/829e69362a/assets/vendor/slick/slick.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\829e69362a\assets\vendor\slick\slick.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/829e69362a/assets/vendor/slick/slick.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\829e69362a\assets\vendor\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f34c9a70dd/public/css/joinchat.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f34c9a70dd\public\css\joinchat.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f34c9a70dd/public/js/joinchat.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f34c9a70dd\public\js\joinchat.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/css/frontend-legacy.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/css/frontend.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/js/frontend-modules.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/js/frontend.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/js/preloaded-modules.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/js/webpack.runtime.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/animations/animations.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/dialog/dialog.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/eicons/css/elementor-icons.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/eicons/fonts/eicons.eot?5.15.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/eicons/fonts/eicons.svg?5.15.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/eicons/fonts/eicons.ttf?5.15.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/eicons/fonts/eicons.woff?5.15.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/css/brands.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/css/fontawesome.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/css/regular.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/css/solid.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/share-link/share-link.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/swiper/swiper.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/modules/f65f29574d/assets/lib/waypoints/waypoints.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\modules\f65f29574d\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/quand-faire-appel-a-un-plombier/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\quand-faire-appel-a-un-plombier\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/quand-faire-appel-a-un-plombier/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\quand-faire-appel-a-un-plombier\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/remplacer-un-robinet/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\remplacer-un-robinet\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/remplacer-un-robinet/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\remplacer-un-robinet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/service/chauffage/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\service\chauffage\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/service/climatisation/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\service\climatisation\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/service/hammam/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\service\hammam\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/service/piscine/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\service\piscine\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/service/plomberie/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\service\plomberie\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/service/solaire-thermique/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\service\solaire-thermique\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/services/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\services\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie-1024x682.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie-120x80.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie-120x80.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie-300x200.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie-555x370.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie-555x370.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie-555x400.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie-555x400.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie-768x512.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie-850x567.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie-850x567.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/plomberie.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\plomberie.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/pompes-piscine-1024x576.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\pompes-piscine-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/pompes-piscine-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\pompes-piscine-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/pompes-piscine-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\pompes-piscine-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/salle-de-bain-107x80.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\salle-de-bain-107x80.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/salle-de-bain-300x225.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\salle-de-bain-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/salle-de-bain-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\salle-de-bain-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/salle-de-bain-555x416.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\salle-de-bain-555x416.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/salle-de-bain-720x500.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\salle-de-bain-720x500.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2018/01/salle-de-bain.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2018\01\salle-de-bain.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/action-21892_1920.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\action-21892_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/baxi-make-it-easy-white-1053337-152x80.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\baxi-make-it-easy-white-1053337-152x80.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/climatisation-1024x497.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\climatisation-1024x497.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/climatisation-555x400.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\climatisation-555x400.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/climatisation-850x567.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\climatisation-850x567.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_512-180x180.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_512-180x180.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_512-192x192.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_512-192x192.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_512-32x32.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_512-32x32.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_jouhra-1-4-1024x374.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_jouhra-1-4-1024x374.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_jouhra-1-4-1536x561.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_jouhra-1-4-1536x561.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_jouhra-1-4-219x80.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_jouhra-1-4-219x80.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_jouhra-1-4-300x110.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_jouhra-1-4-300x110.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_jouhra-1-4-555x203.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_jouhra-1-4-555x203.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_jouhra-1-4-768x280.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_jouhra-1-4-768x280.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/cropped-logo_jouhra-1-4.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\cropped-logo_jouhra-1-4.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-1024x683.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-120x80.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-120x80.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-1536x1024.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-1920x500.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-1920x500.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-2048x1365.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-300x200.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-555x370.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-555x370.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-768x512.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_11511991_xl-2015-scaled.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_11511991_xl-2015-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-1024x683.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-120x80.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-120x80.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-1536x1024.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-2048x1365.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-2048x1365.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-300x200.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-555x370.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-555x370.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-768x512.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_197404202_xl-2015-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_197404202_xl-2015-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_62702385_xl-2015-1920x500.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_62702385_xl-2015-1920x500.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/Depositphotos_62702385_xl-2015-scaled.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\Depositphotos_62702385_xl-2015-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/hammam-beldi-marocain-1024x768.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\hammam-beldi-marocain-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/hammam-beldi-marocain-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\hammam-beldi-marocain-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/hammam-beldi-marocain-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\hammam-beldi-marocain-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/images-128x80.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\images-128x80.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/junkers-258x80.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\junkers-258x80.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/logo-75x80.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\logo-75x80.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/logo.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\logo.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plombier-228010_1920-1024x680.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plombier-228010_1920-1024x680.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plombier-228010_1920-120x80.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plombier-228010_1920-120x80.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plombier-228010_1920-300x199.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plombier-228010_1920-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plombier-228010_1920-555x369.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plombier-228010_1920-555x369.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plombier-228010_1920-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plombier-228010_1920-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plombier-228010_1920-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plombier-228010_1920-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plumber-2547297_1920-1024x913.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plumber-2547297_1920-1024x913.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plumber-2547297_1920-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plumber-2547297_1920-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/plumber-2547297_1920-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\plumber-2547297_1920-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/pompe-a-chaleur-1024x576.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\pompe-a-chaleur-1024x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/pompe-a-chaleur-142x80.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\pompe-a-chaleur-142x80.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/pompe-a-chaleur-300x169.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\pompe-a-chaleur-300x169.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/pompe-a-chaleur-555x312.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\pompe-a-chaleur-555x312.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/pompe-a-chaleur-768x432.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\pompe-a-chaleur-768x432.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/pompe-a-chaleur.jpeg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\pompe-a-chaleur.jpeg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/roca-159x80.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\roca-159x80.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/solaire-1024x576.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\solaire-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/solaire-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\solaire-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/solaire-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\solaire-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/01/téléchargement-143x80.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\01\téléchargement-143x80.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/02/DIMENSION-DES-TUYAUX-CUIVRE-DANS-UNE-INSTALLATION-DOMESTIQUE.pdf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\02\DIMENSION-DES-TUYAUX-CUIVRE-DANS-UNE-INSTALLATION-DOMESTIQUE.pdf
+Content Type: application/pdf
+
+Uri: https://plomberiejouhra.ma/storage/2020/02/EXEMPLE-SCHEMA-PISCINE-.pdf
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\02\EXEMPLE-SCHEMA-PISCINE-.pdf
+Content Type: application/pdf
+
+Uri: https://plomberiejouhra.ma/storage/2020/02/Geberit-Logo.svg_-463x80.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\02\Geberit-Logo.svg_-463x80.png
+Content Type: image/png
+
+Uri: https://plomberiejouhra.ma/storage/2020/02/modulesinstallationplomberie-300x250.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\02\modulesinstallationplomberie-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/02/modulesinstallationplomberie-96x80.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\02\modulesinstallationplomberie-96x80.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/02/modulesinstallationplomberie.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\02\modulesinstallationplomberie.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-1024x683.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-120x80.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-120x80.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-1536x1024.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-300x200.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-555x370.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-555x370.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-555x400.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-555x400.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-768x512.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie-850x567.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie-850x567.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/2020/03/economie-energie.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\2020\03\economie-energie.jpg
+Content Type: image/jpeg
+
+Uri: https://plomberiejouhra.ma/storage/elementor/css/post-104.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\elementor\css\post-104.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/storage/elementor/css/post-110.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\elementor\css\post-110.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/storage/elementor/css/post-113.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\elementor\css\post-113.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/storage/elementor/css/post-291.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\elementor\css\post-291.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/storage/elementor/css/post-672.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\elementor\css\post-672.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/storage/elementor/css/post-785.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\elementor\css\post-785.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/storage/elementor/css/post-80.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\storage\elementor\css\post-80.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/tag/debouchage-toilette/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\debouchage-toilette\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/tag/debouchage-toilette/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\debouchage-toilette\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/tag/plomberie/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\plomberie\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/tag/plomberie/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\plomberie\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/tag/rendement-et-rentabilite-des-capteurs-solaires-thermiques/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\rendement-et-rentabilite-des-capteurs-solaires-thermiques\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/tag/rendement-et-rentabilite-des-capteurs-solaires-thermiques/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\rendement-et-rentabilite-des-capteurs-solaires-thermiques\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/tag/rentabilite-des-panneaux-photovoltaiques/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\rentabilite-des-panneaux-photovoltaiques\index.htm
+Content Type: text/html
+
+Uri: https://plomberiejouhra.ma/tag/rentabilite-des-panneaux-photovoltaiques/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\tag\rentabilite-des-panneaux-photovoltaiques\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/fontawesome/css/font-awesome.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\fontawesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/fontawesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\fontawesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/fontawesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/fontawesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/fontawesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\fontawesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/fontawesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/magnific-popup/jquery.magnific-popup.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\magnific-popup\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/assets/vendor/magnific-popup/magnific.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\assets\vendor\magnific-popup\magnific.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/common/css/global.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\common\css\global.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/css/base.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\css\base.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/css/datatables.min.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\css\datatables.min.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/css/mmenu.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\css\mmenu.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/css/typography-gfont.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\css\typography-gfont.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/anim-on-scroll.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\anim-on-scroll.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/datatables.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\datatables.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/imagesloaded.pkgd.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/isotope.pkgd.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/jquery.fitvids.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/jquery.mmenu.min.all.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\jquery.mmenu.min.all.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/jquery.sticky-kit.min.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\jquery.sticky-kit.min.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/magnific-init.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\magnific-init.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/js/scripts.js
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://plomberiejouhra.ma/vews/5510a843bc/style.css
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\vews\5510a843bc\style.css
+Content Type: text/css
+
+Uri: https://plomberiejouhra.ma/wp-json/
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fchasse-deau-qui-fuit%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fchasse-deau-qui-fuit%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fchoisir-un-plombier%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fchoisir-un-plombier%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fcomment-deboucher-vos-toilettes%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fcomment-deboucher-vos-toilettes%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fcontact%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fcontact%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fla-rentabilite-des-panneaux-solaires%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fla-rentabilite-des-panneaux-solaires%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fla-societe%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fla-societe%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fquand-faire-appel-a-un-plombier%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fquand-faire-appel-a-un-plombier%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fremplacer-un-robinet%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fremplacer-un-robinet%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fchauffage%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fchauffage%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fclimatisation%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fclimatisation%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fhammam%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fhammam%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fpiscine%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fpiscine%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fplomberie%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fplomberie%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fsolaire-thermique%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservice%2Fsolaire-thermique%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservices%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Fplomberiejouhra.ma%2Fservices%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/categories/15
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\categories\15
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/categories/24
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\categories\24
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/pages/28
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\pages\28
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/pages/291
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\pages\291
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/pages/362
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\pages\362
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/pages/672
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\pages\672
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/posts/400
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\posts\400
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/posts/505
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\posts\505
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/posts/744
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\posts\744
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/posts/750
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\posts\750
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/posts/755
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\posts\755
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/posts/806
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\posts\806
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/tags/19
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\tags\19
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/tags/20
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\tags\20
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/tags/22
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\tags\22
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/wp-json/wp/v2/tags/23
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\wp-json\wp\v2\tags\23
+Content Type: application/json
+
+Uri: https://plomberiejouhra.ma/xmlrpc.php?rsd
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Le5IQEVAAAAALhocutmRXscIQzUsTXIYuhx3lEU
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-158259138-1
+File Name: C:\Users\Otmanee7\Documents\GitHub\manga\plomberiejouhra.ma\gtag\js
+Content Type: application/javascript
+
